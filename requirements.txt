@@ -3,4 +3,4 @@ pyaudio
 gtts
 pygame
 flask
-guniorn
+gunicorn
