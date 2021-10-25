@@ -2,6 +2,6 @@ SpeechRecognition
 pyaudio
 gtts
 pygame
-tempfile
 flask
 flask.templating
+guniorn
