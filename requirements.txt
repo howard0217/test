@@ -3,5 +3,4 @@ pyaudio
 gtts
 pygame
 flask
-flask.templating
 guniorn
