@@ -1,5 +1,4 @@
 SpeechRecognition
-pyaudio
 gtts
 pygame
 flask
